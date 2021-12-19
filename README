@@ -1,0 +1,9 @@
+The instance files have the following format. All numbers, all intra-line separators are spaces.
+
+First line, two numbers:
+n t
+
+Where n is the number of labels and t is the grid size;
+
+One line for each labels:
+Demand of label;
